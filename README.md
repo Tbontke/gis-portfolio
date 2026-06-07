@@ -1,25 +1,31 @@
-# gis-portfolio
-Reposoitory for GIS projects
+# GIS Portfolio
+
+Repository for GIS projects.
 
 ## Current Learning Objectives
 
 ### GIS
--QGIS
--ArcGIS Pro
+
+- QGIS
+- ArcGIS Pro
+
 ### SQL & Databases
--PostgreSQL
--PostGIS
--SQL
+
+- PostgreSQL
+- PostGIS
+- SQL
+
 ### Python
--Jupyter
--Pandas
--GeoPandas
+
+- Jupyter
+- Pandas
+- GeoPandas
 
 ## Planned Projects
 
--Houston Emergency Services Coverage
--Houston Growth Analysis
--Targeting Low-income Areas
--Campus Flier Project
--Houston Flood Suceptibility Modeling
--Urban Heat Island Analysis
+- Houston Emergency Services Coverage
+- Houston Growth Analysis
+- Targeting Low-Income Areas
+- Campus Flyer Project
+- Houston Flood Susceptibility Modeling
+- Urban Heat Island Analysis
